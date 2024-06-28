@@ -53,7 +53,7 @@
 }
 @media (min-width: 768px) {
     .card:hover {
-        transform: scale(1);
+        transform: scale(0.5);
     }
 }
 
